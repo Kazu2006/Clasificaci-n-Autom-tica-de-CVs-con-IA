@@ -106,7 +106,7 @@ Puedes usar los ejemplos de CVs proporcionados, o generar los tuyos en Word y ex
 
 ---
 
-### 🧩 ¿Ideas para mejorar?
+### 🧩 Teconologias Utilizadas
 * Python (base del sistema)
 * pdfplumber (para extraer texto desde PDFs)
 * scikit-learn (modelo de IA y procesamiento de texto)
