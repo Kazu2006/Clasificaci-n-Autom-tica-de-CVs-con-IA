@@ -1,0 +1,4 @@
+pdfplumber
+scikit-learn
+pandas
+joblib
